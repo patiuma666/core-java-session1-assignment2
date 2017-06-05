@@ -1,0 +1,12 @@
+*jdk-java development kit 
+*It is used to compile a java program and we have to install jdk to get java.
+*to write a program go to java-jdk-bin-javac
+*here in bin we consists of java files
+
+
+*jre-java runtime environment
+*it is used to run a java program 
+
+*jvm-java virtual machine
+*it is in jre which is used to covert a source code to a byte code
+*jvm is in jre  as it is platform dependent 
